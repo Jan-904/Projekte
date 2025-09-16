@@ -1,0 +1,9 @@
+{
+  "name": "Fail & Pfusch",
+  "short_name": "F&P",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0f1724",
+  "theme_color": "#0f1724",
+  "icons": []
+}
